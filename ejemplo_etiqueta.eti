@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="no"?>
+<!--Archivo tfi-->
+<!DOCTYPE Diseno>
+<diseno>
+  <version>verion 10 labeltwo</version>
+  <formato ancho="100" alto="100" continuo="False"/>
+  <literal id_lit="2">
+    <texto>A000FECALT</texto>
+    <fuente>Arial</fuente>
+    <posicion x="9" y="25"/>
+    <w>200</w>
+    <h>40</h>
+    <tamano_letra>24</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="3">
+    <texto>A130NUMDOC</texto>
+    <fuente>Arial</fuente>
+    <posicion x="10" y="95"/>
+    <w>320</w>
+    <h>47</h>
+    <tamano_letra>34</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="4">
+    <texto>Mats:</texto>
+    <fuente>Arial</fuente>
+    <posicion x="10" y="170"/>
+    <w>46</w>
+    <h>20</h>
+    <tamano_letra>12</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="5">
+    <texto>A000NUMART</texto>
+    <fuente>Arial</fuente>
+    <posicion x="50" y="170"/>
+    <w>152</w>
+    <h>26</h>
+    <tamano_letra>16</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="6">
+    <texto>Qt:</texto>
+    <fuente>Arial</fuente>
+    <posicion x="180" y="170"/>
+    <w>27</w>
+    <h>20</h>
+    <tamano_letra>12</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="7">
+    <texto>A000CANFIS</texto>
+    <fuente>Arial</fuente>
+    <posicion x="205" y="170"/>
+    <w>139</w>
+    <h>26</h>
+    <tamano_letra>16</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="10">
+    <texto>Banco:</texto>
+    <fuente>Arial</fuente>
+    <posicion x="10" y="210"/>
+    <w>57</w>
+    <h>20</h>
+    <tamano_letra>12</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="11">
+    <texto>A000MUESAL</texto>
+    <fuente>Arial</fuente>
+    <posicion x="60" y="210"/>
+    <w>112</w>
+    <h>20</h>
+    <tamano_letra>12</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="12">
+    <texto>A130NUMBUL</texto>
+    <fuente>Arial</fuente>
+    <posicion x="212" y="245"/>
+    <w>416</w>
+    <h>73</h>
+    <tamano_letra>44</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="16">
+    <texto>Lote:</texto>
+    <fuente>Arial</fuente>
+    <posicion x="210" y="20"/>
+    <w>35</w>
+    <h>17</h>
+    <tamano_letra>10</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="17">
+    <texto>A000LOTE</texto>
+    <fuente>Arial</fuente>
+    <posicion x="210" y="40"/>
+    <w>116</w>
+    <h>26</h>
+    <tamano_letra>18</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="18">
+    <texto>QtOF:</texto>
+    <fuente>Arial</fuente>
+    <posicion x="180" y="210"/>
+    <w>42</w>
+    <h>17</h>
+    <tamano_letra>10</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <literal id_lit="19">
+    <texto>A000TOTALPREP</texto>
+    <fuente>Arial</fuente>
+    <posicion x="225" y="210"/>
+    <w>118</w>
+    <h>17</h>
+    <tamano_letra>10</tamano_letra>
+    <rotacion grados="0"/>
+  </literal>
+  <codigo_barras id_barras="1" human_valor="True">
+    <codigo>A130NUMDOCNET</codigo>
+    <posicion x="10" y="257"/>
+    <magnificacion>3</magnificacion>
+    <codificacion>Code128C</codificacion>
+    <alto>80</alto>
+    <w>186</w>
+    <h>62</h>
+    <rotacion grados="0"/>
+  </codigo_barras>
+</diseno>
